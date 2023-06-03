@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+👋 Hi, I’m 
+👀 I’m interested in ...
+🌱 I’m currently studying 
+💞️ I’m looking for IT internships.
+📫 How to reach me:
+
 -->
+
+👋 Hi, I’m @olszewskista.
+👀 I’m interested in ...
+🌱 I’m currently studying computer science at Univerity of Gdańsk.
+🤔 I’m looking for IT internships.
+📫 How to reach me:
+@: olszewski.sta@gmail.com
+
