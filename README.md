@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @olszewskista.
 - 👀 I’m interested in ...
-- 🌱 I’m currently studying computer science at Univerity of Gdańsk.
+- 🌱 I’m currently studying computer science at University of Gdańsk.
 - 🤔 I’m looking for IT internships.
 - 📫 How to reach me:
 - @: olszewski.sta@gmail.com
