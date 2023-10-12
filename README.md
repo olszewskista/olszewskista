@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 👀 I’m interested in ...
 🌱 I’m currently studying 
 💞️ I’m looking for IT internships.
+🤔 I’m looking for IT internships.
 📫 How to reach me:
 
 -->
 
-- 👋 Hi, I’m @olszewskista.
+- 👋 Hi, I’m Stanisław Olszewski.
 - 👀 I’m interested in ...
 - 🌱 I’m currently studying computer science at University of Gdańsk.
-- 🤔 I’m looking for IT internships.
 - 📫 How to reach me:
 - @: olszewski.sta@gmail.com
 
