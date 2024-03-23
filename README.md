@@ -1,31 +1,20 @@
-### Hi there 👋
+## Hi there! I'm Stanisław 👋
 
-<!--
-**olszewskista/olszewskista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student of Computer Science at the University of Gdańsk. My primary focus lies within web development, yet taking up new challenges is no stranger to me!
 
-Here are some ideas to get you started:
+In my free time, besides programming, I like to tinker with my car. :racing_car: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm currently learning **Java**, **Go** and **machine learning**. :book:
 
-👋 Hi, I’m 
-👀 I’m interested in ...
-🌱 I’m currently studying 
-💞️ I’m looking for IT internships.
-🤔 I’m looking for IT internships.
-📫 How to reach me:
+Feel free to check out repositories on my profile! :eyes:
 
--->
+#### Languages and tools:
 
-- 👋 Hi, I’m Stanisław Olszewski.
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying computer science at University of Gdańsk.
-- 📫 How to reach me:
-- @: olszewski.sta@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olszewskista&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,scala,java,go,bash,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,mysql,git,docker,nginx,linux&perline=9)](https://skillicons.dev)
 
+#### Contact me here:
+
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olszewski.sta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olszewskista/)
