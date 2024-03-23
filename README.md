@@ -10,9 +10,11 @@ Feel free to check out repositories on my profile! :eyes:
 
 #### Languages and tools:
 
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,scala,java,go,bash,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,mysql,git,docker,nginx,linux)](https://skillicons.dev)
+
+#### Github stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olszewskista&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,scala,java,go,bash,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,mysql,git,docker,nginx,linux&perline=9)](https://skillicons.dev)
 
 #### Contact me here:
 
